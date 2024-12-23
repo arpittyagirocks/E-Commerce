@@ -1,7 +1,7 @@
-# Humari Dukaan - E-Commerce Website
+# MytalorZone - E-Commerce Website
 
-![](demo.gif)
-Humari Dukaan is a fully functional e-commerce website built using React.js, Redux, React Router, Bootstrap, and Bootstrap Icons. The project aims to provide users with a seamless shopping experience and incorporates various features such as image carousel, scroll animations, search functionality, category-wise shopping, and a robust checkout system.
+
+MytalorZone is a fully functional e-commerce website built using React.js, Redux, React Router, Bootstrap, and Bootstrap Icons. The project aims to provide users with a seamless shopping experience and incorporates various features such as image carousel, scroll animations, search functionality, category-wise shopping, and a robust checkout system.
 
 ## Table of Contents
 
@@ -75,61 +75,6 @@ The Humari Dukaan project utilizes the following technologies and libraries:
 - React Router: A routing library for declarative navigation and routing in React applications.
 - Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
 - Bootstrap Icons: A library of free, open-source icons for Bootstrap.
-
-## Contributors
-
-<a href="https://github.com/arpittyagi102">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94587985?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Pulkitxm">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/65671483?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Akash1965">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/115504480?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/avinashji1302">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91355822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/roc102">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100594349?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/aasimtaif">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83891519?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/MRodriguez-M">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41445895?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/shm-dsgn">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77527904?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Silent-Watcher">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91375198?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/sid12701">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/78287897?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/sohaibaumer">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/120295412?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/VIVEKIITdelhi">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114601400?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/aharonYK">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/87654852?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-
-<br class="br"/>
-
-## Contributing
-
-Contributions to Humari Dukaan are welcome! If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name.
-3. Make your changes and commit them to your branch.
-4. Push your changes to your forked repository.
-5. Submit a pull request explaining your changes and their purpose.
-6. Please give this repository a star 🌟
 
 ## License
 
